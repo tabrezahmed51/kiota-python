@@ -1,2 +1,2 @@
-pylint==3.2.7
+pylint==4.0.9
 poetry-plugin-mono-repo-deps==0.3.0
